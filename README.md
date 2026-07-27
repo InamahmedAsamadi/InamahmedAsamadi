@@ -34,13 +34,25 @@ With 4+ years of backend development experience, I've worked on core SaaS applic
 
 ---
 
-## 📊 Featured Projects
+## 💼 Production Work
 
-> *(Add 1-3 real repos here once built — this is the highest-impact section on the whole page. Format below; replace with your actual project links and descriptions.)*
+**[GarageBox](https://www.garagebox.io/en)** — AI-powered all-in-one garage management software (GMS) for auto repair shops, used across India, Bahrain, Thailand, Malaysia, and other markets.
 
-**[Project Name](link)** — Node.js REST API with JWT authentication, role-based access control, and MySQL data modeling. Built to demonstrate backend architecture and API design patterns used in production SaaS systems.
+As a Backend Developer on the team, I work on the systems behind core platform features including workflow management, job cards, estimates, inventory/procurement, digital vehicle inspections, and customer communication — supporting shops from single-location workshops to multi-location chains.
 
-**[Project Name](link)** — [Second project description, once it exists]
+- 🌐 [Web Platform](https://www.garagebox.io/en)
+- 📱 [GarageBox Android App](https://play.google.com/store/apps/details?id=io.garagebox)
+- ⭐ 5-star rated based on 200+ reviews across G2, Trustpilot, and TrustRadius
+
+*(This is commercial, closed-source production software — no public repo to link, since the codebase belongs to GarageBox. Listed here as verifiable evidence of real-world backend work, not as a personal open-source project.)*
+
+---
+
+## 📊 Personal Projects
+
+> *(Add 1-2 real personal repos here once built — e.g., the Node.js REST API project from your portfolio roadmap. This section is where you demonstrate hands-on Node.js work independent of your day job.)*
+
+**[Project Name](link)** — Node.js REST API with JWT authentication, role-based access control, and MySQL data modeling.
 
 ---
 
@@ -56,7 +68,14 @@ With 4+ years of backend development experience, I've worked on core SaaS applic
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/inamahmedasamadi-2436aa207) · [Email — add if you want it public]
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="inamahmed-asamadi-2436aa207" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/inamahmed-asamadi-2436aa207?trk=profile-badge">InamAhmed Asamadi</a></div>
+
+[Email — add if you want it public]
+
+*(To make the badge above actually render — not just show as a link — add this script tag right after it, exactly as LinkedIn generated it:)*
+```html
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+```
 
 ---
 
