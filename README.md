@@ -1,85 +1,108 @@
-# 🚀 InamAhmed Asamadi
+<div align="center">
 
-### Backend Developer | Node.js · Laravel · MySQL | AI-Assisted Development & Prompt Engineering
+# 👋 Hi, I'm InamAhmed Asamadi
 
-I build scalable backend systems and APIs — with a growing specialization in Node.js and a strong foundation in PHP/Laravel.
+### 🚀 Full Stack Developer | Node.js · Next.js · PHP Laravel
 
-With 4+ years of backend development experience, I've worked on core SaaS applications for the automotive service industry, owning features from data architecture through API delivery — and I actively use AI-assisted development tools to build and ship faster without cutting corners on code quality.
+📍 Banaskantha, Gujarat, India &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/inamahmed-asamadi-2436aa207) &nbsp;|&nbsp; 📧 iminamasamadi@gmail.com
 
----
-
-## 🧠 What I Do
-
-- 🔧 Backend Development (Node.js, PHP/Laravel)
-- 🔌 REST API Design & Integration
-- 🗄️ Database Design & Optimization (MySQL)
-- 🏗️ Backend Architecture for Multi-Tenant SaaS
-- 🔐 Authentication & Authorization (JWT)
-- 🤖 AI-Assisted Development & Prompt Engineering
-- 📈 Migrating Legacy PHP Systems to Node.js
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🧑‍💻 About Me
 
-**Backend** Node.js · Express.js · PHP · Laravel
+Full Stack Developer with **4+ years** of experience designing and building scalable, production web applications and SaaS platforms. I work across the stack — **Node.js, Express.js, and Next.js/React** on one side, **PHP Laravel and CodeIgniter 3** on the other — with a focus on RESTful API design, relational database architecture, and MVC-based application development.
 
-**Database** MySQL · SQL
+Currently leading development on core SaaS applications for the automotive service industry at **GarageBox**, delivering end-to-end features from database schema design through responsive front-end interfaces.
 
-**API & Auth** REST APIs · JWT · Postman
-
-**AI & Automation Tools** ChatGPT · Claude · GitHub Copilot · Prompt Engineering
-
-**Tools** Git · GitHub · Linux · [Docker — add if applicable]
+I'm actively deepening my **Node.js specialization**, and I build with AI-assisted development tools and prompt engineering as part of my daily workflow — reviewing every AI-generated line with the same rigor as hand-written code.
 
 ---
 
-## 💼 Production Work
+### 🛠️ Tech Stack
 
-**[GarageBox](https://www.garagebox.io/en)** — AI-powered all-in-one garage management software (GMS) for auto repair shops, used across India, Bahrain, Thailand, Malaysia, and other markets.
+**💻 Languages**
+`JavaScript (ES6+)` · `PHP` · `SQL` · `HTML5` · `CSS3`
 
-As a Backend Developer on the team, I work on the systems behind core platform features including workflow management, job cards, estimates, inventory/procurement, digital vehicle inspections, and customer communication — supporting shops from single-location workshops to multi-location chains.
+**⚙️ Backend**
+🟢 `Node.js` · ⚡ `Express.js` · 🔴 `PHP Laravel` · 🔥 `CodeIgniter 3` · `RESTful API Design` · `MVC Architecture`
 
-- 🌐 [Web Platform](https://www.garagebox.io/en)
-- 📱 [GarageBox Android App](https://play.google.com/store/apps/details?id=io.garagebox)
-- ⭐ 5-star rated based on 200+ reviews across G2, Trustpilot, and TrustRadius
+**🎨 Frontend**
+⬛ `Next.js` · 🔵 `React` · `jQuery` · `Responsive Web Design`
 
-*(This is commercial, closed-source production software — no public repo to link, since the codebase belongs to GarageBox. Listed here as verifiable evidence of real-world backend work, not as a personal open-source project.)*
+**🗄️ Databases & ORMs**
+🐬 `MySQL` · ▲ `Prisma ORM` · `Schema Design` · `Query Optimization` · `Database Migrations`
 
----
+**🤖 AI & Automation**
+✨ `ChatGPT` · 🟠 `Claude` · 🐙 `GitHub Copilot` · `Prompt Engineering` · `AI-Assisted Development`
 
-## 📊 Personal Projects
-
-> *(Add 1-2 real personal repos here once built — e.g., the Node.js REST API project from your portfolio roadmap. This section is where you demonstrate hands-on Node.js work independent of your day job.)*
-
-**[Project Name](link)** — Node.js REST API with JWT authentication, role-based access control, and MySQL data modeling.
-
----
-
-## 💼 Currently
-
-🔭 Working on core SaaS applications for the automotive service industry at **GarageBox**
-
-🌱 Deepening my Node.js expertise as the core direction of my backend career
-
-🤝 Open to backend/Node.js-focused roles and collaboration
+**🔧 Tools & Practices**
+📦 `Git` · 🐈 `GitHub` · `Agile Development` · `SDLC` · `API Integration` · `Code Review`
 
 ---
 
-## 📫 Connect
+### 💼 Work Experience
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="inamahmed-asamadi-2436aa207" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/inamahmed-asamadi-2436aa207?trk=profile-badge">InamAhmed Asamadi</a></div>
+**🏢 Full Stack Developer — Node.js & Next.js**
+*GarageBox · 2024 – Present*
 
-[Email — add if you want it public]
+Leading development of core SaaS applications for the automotive service industry, owning features from backend architecture through UI delivery.
 
-*(To make the badge above actually render — not just show as a link — add this script tag right after it, exactly as LinkedIn generated it:)*
-```html
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-```
+- 🔧 Built the **GarageBox SaaS Garage Management System** — digital job cards and real-time vehicle repair tracking used daily by garage staff
+- 📩 Implemented automated client notifications and service status updates through integrated messaging, reducing manual follow-up
+- 📊 Developed a **Dealership Management System** with dealer analytics dashboards and reporting tools
+- 🔌 Designed and maintained RESTful APIs and MySQL/Prisma-backed data models across multiple SaaS modules
+
+**🏢 PHP Developer**
+*Narjis Infotech · 2022 – 2024*
+
+- 💍 Built the **Art of Living Matrimony App** — advanced matchmaking modules and user profile management (PHP Laravel)
+- 🕋 Built the **Al-Amin Umrah Service Book App** — agency booking framework and itinerary management for pilgrimage service providers
+- 🤝 Collaborated on multiple client projects using PHP Laravel and CodeIgniter 3 — backend logic, database design, API integrations
+- 🔄 Participated in the full SDLC: requirements, development, testing, deployment, post-launch maintenance
+- 🏆 **Employee of the Year – Fresher Award**, December 2022
 
 ---
 
-<!--
-GITHUB STATS (optional — uncomment and use once your GitHub has real commit activity to show off):
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
--->
+### 🚀 Featured Work
+
+> Commercial client/employer products — closed-source, so shown here as verifiable production experience rather than linked repos.
+
+| Project | Description |
+|---|---|
+| 🔧 **[GarageBox GMS](https://www.garagebox.io/en)** | Digital job cards, real-time repair tracking, automated client notifications |
+| 📊 **Dealership Management System** | Dealer analytics dashboards & reporting tools |
+| 💍 **Art of Living Matrimony App** | Matchmaking platform with profile management |
+| 🕋 **Al-Amin Umrah Service Book App** | Agency booking & itinerary management |
+
+---
+
+### 📂 Personal Projects
+
+> *(Link real repos here once built)*
+
+| Project | Description |
+|---|---|
+| 🏥 **HealthBook AI** | AI-powered appointment booking assistant — LLM intent extraction + deterministic Node.js booking logic |
+| 🔌 **Node.js REST API** | JWT auth, role-based access control, MySQL data modeling |
+
+---
+
+### 🎓 Education
+
+🎓 Bachelor of Computer Applications (BCA) — 2022
+📘 Higher Secondary (HSC) — 2019
+📗 Secondary (SSC) — 2017
+
+---
+
+### 🌐 Languages
+
+🗣️ English · Hindi · Gujarati
+
+---
+
+### 📫 Let's Connect
+
+💼 **[LinkedIn](https://www.linkedin.com/in/inamahmed-asamadi-2436aa207)** &nbsp;|&nbsp; 📧 **[Email](mailto:iminamasamadi@gmail.com)**
