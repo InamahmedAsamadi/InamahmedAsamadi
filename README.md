@@ -103,6 +103,10 @@ Leading development of core SaaS applications for the automotive service industr
 
 ---
 
+<div align="center">
+
 ### 📫 Let's Connect
 
 💼 **[LinkedIn](https://www.linkedin.com/in/inamahmed-asamadi-2436aa207)** &nbsp;|&nbsp; 📧 **[Email](mailto:iminamasamadi@gmail.com)**
+
+</div>
